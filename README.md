@@ -8,4 +8,7 @@ There are two most common Recommender System
 Our movie Recommender System based on Content based.\
 Conent based focus on the attributes of the items abd give you the recommendation based on the similarity between them.\
 \
-Collaborating filtering recommendation based on the knowledge of the user attribute to the items, that uses the wisdom of the crowd to recommended items.
+Collaborating filtering recommendation based on the knowledge of the user attribute to the items, that uses the wisdom of the crowd to recommended items.\
+\
+We develop basic recommendation systems using Python and pandas.\
+This model tells you what movies/items are most similar to your movie choice.
