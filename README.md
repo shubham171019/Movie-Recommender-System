@@ -1,5 +1,5 @@
-# Movie-Recommender-System \
-There are two most common Recommender System\
+# Movie-Recommender-System
+There are two most common Recommender System
 1) Content Based\
 2) Collaborative Filtering\
   2.1) Memory based Collaborating Filtering\
