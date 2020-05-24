@@ -1,6 +1,6 @@
 # Movie-Recommender-System
 There are two most common Recommender System
-1) Content Based\
+1) Content Based
 2) Collaborative Filtering
   2.1) Memory based Collaborating Filtering\
   2.2) Model based Collaborating Filtering\
