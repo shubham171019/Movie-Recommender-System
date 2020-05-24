@@ -6,4 +6,6 @@ There are two most common Recommender System
   2.2) Model based Collaborating Filtering\
 \
 Our movie Recommender System based on Content based.\
-Conent based focus on the attributes of the items abd give you the recommendation based on the similarity between them.
+Conent based focus on the attributes of the items abd give you the recommendation based on the similarity between them.\
+\
+Collaborating filtering recommendation based on the knowledge of the user attribute to the items, that uses the wisdom of the crowd to recommended items.
