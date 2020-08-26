@@ -12,6 +12,4 @@ Collaborating filtering recommendation based on the knowledge of the user attrib
 \
 We develop basic recommendation systems using Python and pandas.\
 This model tells you what movies/items are most similar to your movie choice. \
-Here we have taken two attributes.\
-1) User rating
-2) No. of ratings.
+Here we have taken two attributes- User rating and No. of ratings.
