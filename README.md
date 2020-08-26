@@ -11,4 +11,7 @@ Conent based focus on the attributes of the items abd give you the recommendatio
 Collaborating filtering recommendation based on the knowledge of the user attribute to the items, that uses the wisdom of the crowd to recommended items.\
 \
 We develop basic recommendation systems using Python and pandas.\
-This model tells you what movies/items are most similar to your movie choice.
+This model tells you what movies/items are most similar to your movie choice. \
+Here we have taken two attributes.\
+1) User rating
+2) No. of ratings.
