@@ -1,4 +1,4 @@
-# Movie-Recommender-System
+# Movie_Recommender_System
 There are two most common Recommender System
 1) Content Based
 2) Collaborative Filtering\
